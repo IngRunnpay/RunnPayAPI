@@ -1,52 +1,61 @@
-# Prerequisites
-*.d
+# Windows
+Thumbs.db
+Desktop.ini
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# ASP.NET
+# IIS
+.vs2015/
+.vs2017/
+.vs2019/
 
-# Precompiled Headers
-*.gch
-*.pch
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ebug-vs2017/
+[Dd]ebug-vs2019/
+[Dd]Release/
+[Dd]ReleasePublic/
+[Dd]Release-vs2017/
+[Dd]Release-vs2019/
+x64/
+x86/
+[Aa]rmeabi/
+[Aa]rmeabi-v7a/
+[Aa]rm64/
 
-# Shared objects (inc. Windows DLLs)
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.vsscc
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+.vscode/
+
+# User-specific files (Mono Auto-Generated)
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
 *.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+*.vs

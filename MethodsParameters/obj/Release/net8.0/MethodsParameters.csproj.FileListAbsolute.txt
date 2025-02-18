@@ -1,0 +1,16 @@
+C:\programacion\RunnPay\RunnPayBack\MethodsParameters\bin\Release\net8.0\MethodsParameters.deps.json
+C:\programacion\RunnPay\RunnPayBack\MethodsParameters\bin\Release\net8.0\MethodsParameters.dll
+C:\programacion\RunnPay\RunnPayBack\MethodsParameters\bin\Release\net8.0\MethodsParameters.pdb
+C:\programacion\RunnPay\RunnPayBack\MethodsParameters\bin\Release\net8.0\Entities.dll
+C:\programacion\RunnPay\RunnPayBack\MethodsParameters\bin\Release\net8.0\Entities.pdb
+C:\programacion\RunnPay\RunnPayBack\MethodsParameters\obj\Release\net8.0\MethodsParameters.csproj.AssemblyReference.cache
+C:\programacion\RunnPay\RunnPayBack\MethodsParameters\obj\Release\net8.0\MethodsParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\programacion\RunnPay\RunnPayBack\MethodsParameters\obj\Release\net8.0\MethodsParameters.AssemblyInfoInputs.cache
+C:\programacion\RunnPay\RunnPayBack\MethodsParameters\obj\Release\net8.0\MethodsParameters.AssemblyInfo.cs
+C:\programacion\RunnPay\RunnPayBack\MethodsParameters\obj\Release\net8.0\MethodsParameters.csproj.CoreCompileInputs.cache
+C:\programacion\RunnPay\RunnPayBack\MethodsParameters\obj\Release\net8.0\MethodsParameters.sourcelink.json
+C:\programacion\RunnPay\RunnPayBack\MethodsParameters\obj\Release\net8.0\MethodsP.F57B6C87.Up2Date
+C:\programacion\RunnPay\RunnPayBack\MethodsParameters\obj\Release\net8.0\MethodsParameters.dll
+C:\programacion\RunnPay\RunnPayBack\MethodsParameters\obj\Release\net8.0\refint\MethodsParameters.dll
+C:\programacion\RunnPay\RunnPayBack\MethodsParameters\obj\Release\net8.0\MethodsParameters.pdb
+C:\programacion\RunnPay\RunnPayBack\MethodsParameters\obj\Release\net8.0\ref\MethodsParameters.dll

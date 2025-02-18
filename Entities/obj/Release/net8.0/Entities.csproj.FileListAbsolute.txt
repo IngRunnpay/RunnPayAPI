@@ -1,0 +1,13 @@
+C:\programacion\RunnPay\RunnPayBack\Entities\bin\Release\net8.0\Entities.deps.json
+C:\programacion\RunnPay\RunnPayBack\Entities\bin\Release\net8.0\Entities.dll
+C:\programacion\RunnPay\RunnPayBack\Entities\bin\Release\net8.0\Entities.pdb
+C:\programacion\RunnPay\RunnPayBack\Entities\obj\Release\net8.0\Entities.csproj.AssemblyReference.cache
+C:\programacion\RunnPay\RunnPayBack\Entities\obj\Release\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\programacion\RunnPay\RunnPayBack\Entities\obj\Release\net8.0\Entities.AssemblyInfoInputs.cache
+C:\programacion\RunnPay\RunnPayBack\Entities\obj\Release\net8.0\Entities.AssemblyInfo.cs
+C:\programacion\RunnPay\RunnPayBack\Entities\obj\Release\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\programacion\RunnPay\RunnPayBack\Entities\obj\Release\net8.0\Entities.sourcelink.json
+C:\programacion\RunnPay\RunnPayBack\Entities\obj\Release\net8.0\Entities.dll
+C:\programacion\RunnPay\RunnPayBack\Entities\obj\Release\net8.0\refint\Entities.dll
+C:\programacion\RunnPay\RunnPayBack\Entities\obj\Release\net8.0\Entities.pdb
+C:\programacion\RunnPay\RunnPayBack\Entities\obj\Release\net8.0\ref\Entities.dll
