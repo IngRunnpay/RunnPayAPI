@@ -1,0 +1,5 @@
+﻿#model-enumFlowInfo,
+#model-enumRequestType,
+#model-enumValidationType {
+    display: none !important;
+}
